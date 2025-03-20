@@ -5,7 +5,7 @@ import React from 'react';
 
 export default function Header(){
     return (
-        <body className=' text-white'>
+        <body className=' text-gray-600'>
 
         <header>
 
