@@ -1,13 +1,17 @@
 import './App.css'
-import Header from "./components/Header.jsx"
+import Header from './components/Header.jsx'
 
-function App() {
+export default function App() {
 
   return (
-    <>
-      <Header/>
-    </>
+    <div>
+      
+    <Header/>
+      
+    
+    </div>
   )
+
 }
 
-export default App
+
